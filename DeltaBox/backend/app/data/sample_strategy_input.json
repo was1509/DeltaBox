@@ -1,0 +1,53 @@
+{
+    "currentLap": 36,
+    "totalLaps": 57,
+    "pitLoss": 22.4,
+    "candidatePitLaps": [37, 38, 39, 40],
+    "drivers": [
+      {
+        "code": "LEC",
+        "team": "Ferrari",
+        "position": 1,
+        "gapToLeader": 0.0,
+        "lastLapTime": 92.481,
+        "compound": "MEDIUM",
+        "tyreAge": 18
+      },
+      {
+        "code": "VER",
+        "team": "Red Bull",
+        "position": 2,
+        "gapToLeader": 1.842,
+        "lastLapTime": 92.777,
+        "compound": "HARD",
+        "tyreAge": 10
+      },
+      {
+        "code": "NOR",
+        "team": "McLaren",
+        "position": 3,
+        "gapToLeader": 3.271,
+        "lastLapTime": 92.905,
+        "compound": "HARD",
+        "tyreAge": 11
+      },
+      {
+        "code": "HAM",
+        "team": "Mercedes",
+        "position": 4,
+        "gapToLeader": 6.918,
+        "lastLapTime": 93.19,
+        "compound": "MEDIUM",
+        "tyreAge": 20
+      },
+      {
+        "code": "SAI",
+        "team": "Ferrari",
+        "position": 5,
+        "gapToLeader": 8.004,
+        "lastLapTime": 92.662,
+        "compound": "SOFT",
+        "tyreAge": 7
+      }
+    ]
+  }
